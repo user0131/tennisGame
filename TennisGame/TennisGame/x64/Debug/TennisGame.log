@@ -1,0 +1,5 @@
+﻿  Tennis_Game_improve.cpp
+C:\Users\stbq4\source\repos\ゲーム開発\GUIのゲーム\TennisGame\Tennis_Game_improve.cpp(98,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\stbq4\source\repos\ゲーム開発\GUIのゲーム\TennisGame\Tennis_Game_improve.cpp(98,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\stbq4\source\repos\ゲーム開発\GUIのゲーム\TennisGame\Tennis_Game_improve.cpp(138,34): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  TennisGame.vcxproj -> C:\Users\stbq4\source\repos\ゲーム開発\GUIのゲーム\TennisGame\x64\Debug\TennisGame.exe
